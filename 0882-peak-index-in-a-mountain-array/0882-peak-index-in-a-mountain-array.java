@@ -16,6 +16,6 @@ class Solution {
                 start = center + 1;
             }
         }    
-        return start; 
+        return start; // can return end aswell as both are same
     }
 }
