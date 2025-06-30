@@ -19,10 +19,12 @@ This repository contains my personal solutions to various DSA problems, mainly f
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Anirudhakashid/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [1185-find-in-mountain-array](https://github.com/Anirudhakashid/DSA/tree/master/1185-find-in-mountain-array) |
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Anirudhakashid/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [1185-find-in-mountain-array](https://github.com/Anirudhakashid/DSA/tree/master/1185-find-in-mountain-array) |
 ## Interactive
 |  |
