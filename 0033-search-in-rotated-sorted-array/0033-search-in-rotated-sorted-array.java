@@ -1,27 +1,24 @@
 class Solution {
 
     public int search(int[] nums, int target) {
-
         int pivot = findPivot(nums);
 
         //pivot not found ie. array not rotated
         if(pivot == -1){
-            binarySearch(nums, target, 0, nums.length - 1);
+           return binarySearch(nums, target, 0, nums.length - 1);
         }
 
         //if pivot found
         //if [pivot] == target
-
+        //nums[-1] throws an error
         if( pivot != -1 && nums[pivot] == target ){
             return pivot;
         }
-
-        int firstHalf = binarySearch(nums, target, 0, pivot);
-        if(firstHalf != -1){
-            return firstHalf;
+        if(target >= nums[0]){
+            return binarySearch(nums, target, 0, pivot - 1);
+        }else{
+            return binarySearch(nums, target, pivot + 1, nums.length - 1);
         }
-
-        return binarySearch(nums, target, pivot + 1, nums.length - 1);
         
     }
 
