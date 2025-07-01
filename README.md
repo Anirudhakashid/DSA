@@ -26,6 +26,7 @@ This repository contains my personal solutions to various DSA problems, mainly f
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Anirudhakashid/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/Anirudhakashid/DSA/tree/master/0069-sqrtx) |
 | [0410-split-array-largest-sum](https://github.com/Anirudhakashid/DSA/tree/master/0410-split-array-largest-sum) |
 | [1185-find-in-mountain-array](https://github.com/Anirudhakashid/DSA/tree/master/1185-find-in-mountain-array) |
 ## Interactive
@@ -44,4 +45,8 @@ This repository contains my personal solutions to various DSA problems, mainly f
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Anirudhakashid/DSA/tree/master/0410-split-array-largest-sum) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Anirudhakashid/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
