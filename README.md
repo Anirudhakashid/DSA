@@ -27,12 +27,14 @@ This repository contains my personal solutions to various DSA problems, mainly f
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Anirudhakashid/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Anirudhakashid/DSA/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/Anirudhakashid/DSA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Anirudhakashid/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Anirudhakashid/DSA/tree/master/0410-split-array-largest-sum) |
 | [1185-find-in-mountain-array](https://github.com/Anirudhakashid/DSA/tree/master/1185-find-in-mountain-array) |
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Anirudhakashid/DSA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Anirudhakashid/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [1185-find-in-mountain-array](https://github.com/Anirudhakashid/DSA/tree/master/1185-find-in-mountain-array) |
 ## Dynamic Programming
