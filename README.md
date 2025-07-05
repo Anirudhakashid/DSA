@@ -25,6 +25,7 @@ This repository contains my personal solutions to various DSA problems, mainly f
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anirudhakashid/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0410-split-array-largest-sum](https://github.com/Anirudhakashid/DSA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anirudhakashid/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0792-binary-search](https://github.com/Anirudhakashid/DSA/tree/master/0792-binary-search) |
 | [1185-find-in-mountain-array](https://github.com/Anirudhakashid/DSA/tree/master/1185-find-in-mountain-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anirudhakashid/DSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/Anirudhakashid/DSA/tree/master/1646-kth-missing-positive-number) |
@@ -41,6 +42,7 @@ This repository contains my personal solutions to various DSA problems, mainly f
 | [0374-guess-number-higher-or-lower](https://github.com/Anirudhakashid/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Anirudhakashid/DSA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anirudhakashid/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0792-binary-search](https://github.com/Anirudhakashid/DSA/tree/master/0792-binary-search) |
 | [1185-find-in-mountain-array](https://github.com/Anirudhakashid/DSA/tree/master/1185-find-in-mountain-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anirudhakashid/DSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/Anirudhakashid/DSA/tree/master/1646-kth-missing-positive-number) |
