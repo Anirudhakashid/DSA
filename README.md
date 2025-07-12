@@ -21,8 +21,18 @@ This repository contains my personal solutions to various DSA problems, mainly f
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Anirudhakashid/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0645-set-mismatch](https://github.com/Anirudhakashid/DSA/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Anirudhakashid/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0645-set-mismatch](https://github.com/Anirudhakashid/DSA/tree/master/0645-set-mismatch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Anirudhakashid/DSA/tree/master/0645-set-mismatch) |
+## Sorting
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Anirudhakashid/DSA/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
