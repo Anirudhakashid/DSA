@@ -4,6 +4,7 @@ class Solution {
         while(i<nums.length){
             int correctIndex = nums[i] - 1;
             if(nums[i] != nums[correctIndex]){
+                //swaping
                 int temp = nums[i];
                 nums[i] = nums[correctIndex];
                 nums[correctIndex] = temp;
