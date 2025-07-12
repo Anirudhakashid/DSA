@@ -20,11 +20,13 @@ This repository contains my personal solutions to various DSA problems, mainly f
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Anirudhakashid/DSA/tree/master/0041-first-missing-positive) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Anirudhakashid/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/Anirudhakashid/DSA/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Anirudhakashid/DSA/tree/master/0041-first-missing-positive) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Anirudhakashid/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/Anirudhakashid/DSA/tree/master/0645-set-mismatch) |
 ## Bit Manipulation
