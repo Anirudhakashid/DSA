@@ -24,6 +24,7 @@ This repository contains my personal solutions to various DSA problems, mainly f
 | [0074-search-a-2d-matrix](https://github.com/Anirudhakashid/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anirudhakashid/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Anirudhakashid/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Anirudhakashid/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Anirudhakashid/DSA/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anirudhakashid/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anirudhakashid/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -41,6 +42,7 @@ This repository contains my personal solutions to various DSA problems, mainly f
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anirudhakashid/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Anirudhakashid/DSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Anirudhakashid/DSA/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/Anirudhakashid/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Anirudhakashid/DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Anirudhakashid/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Anirudhakashid/DSA/tree/master/0410-split-array-largest-sum) |
@@ -77,6 +79,7 @@ This repository contains my personal solutions to various DSA problems, mainly f
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anirudhakashid/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Anirudhakashid/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
 |  |
 | ------- |
@@ -91,6 +94,7 @@ This repository contains my personal solutions to various DSA problems, mainly f
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Anirudhakashid/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Anirudhakashid/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
