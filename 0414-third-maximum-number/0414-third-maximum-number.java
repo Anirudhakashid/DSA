@@ -32,7 +32,7 @@ class Solution {
         if(third_max == Long.MIN_VALUE){
             return (int) max;
         }
-     // long -> int   
+     // long -> int (typecasting)  
         return (int) third_max;
     }
 }
