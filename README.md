@@ -24,6 +24,7 @@ This repository contains my personal solutions to various DSA problems, mainly f
 | [0088-merge-sorted-array](https://github.com/Anirudhakashid/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Anirudhakashid/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anirudhakashid/DSA/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Anirudhakashid/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Anirudhakashid/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/Anirudhakashid/DSA/tree/master/0645-set-mismatch) |
 ## Hash Table
@@ -32,6 +33,7 @@ This repository contains my personal solutions to various DSA problems, mainly f
 | [0041-first-missing-positive](https://github.com/Anirudhakashid/DSA/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Anirudhakashid/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anirudhakashid/DSA/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Anirudhakashid/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Anirudhakashid/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/Anirudhakashid/DSA/tree/master/0645-set-mismatch) |
 ## Bit Manipulation
@@ -44,11 +46,13 @@ This repository contains my personal solutions to various DSA problems, mainly f
 | [0088-merge-sorted-array](https://github.com/Anirudhakashid/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Anirudhakashid/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anirudhakashid/DSA/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Anirudhakashid/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/Anirudhakashid/DSA/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Anirudhakashid/DSA/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Anirudhakashid/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -57,4 +61,8 @@ This repository contains my personal solutions to various DSA problems, mainly f
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anirudhakashid/DSA/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Anirudhakashid/DSA/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
