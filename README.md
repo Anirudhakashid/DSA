@@ -27,6 +27,7 @@ This repository contains my personal solutions to various DSA problems, mainly f
 | [0349-intersection-of-two-arrays](https://github.com/Anirudhakashid/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Anirudhakashid/DSA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Anirudhakashid/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Anirudhakashid/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Anirudhakashid/DSA/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
@@ -49,6 +50,7 @@ This repository contains my personal solutions to various DSA problems, mainly f
 | [0217-contains-duplicate](https://github.com/Anirudhakashid/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Anirudhakashid/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Anirudhakashid/DSA/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Anirudhakashid/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Anirudhakashid/DSA/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
@@ -67,4 +69,8 @@ This repository contains my personal solutions to various DSA problems, mainly f
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Anirudhakashid/DSA/tree/master/0349-intersection-of-two-arrays) |
+## Math
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Anirudhakashid/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
