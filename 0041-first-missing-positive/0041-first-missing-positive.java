@@ -1,5 +1,6 @@
 class Solution {
     public int firstMissingPositive(int[] nums) {
+     //Cycle sort:
         int i = 0;
         while(i<nums.length){
             int correctIndex = nums[i] - 1;
