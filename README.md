@@ -20,6 +20,7 @@ This repository contains my personal solutions to various DSA problems, mainly f
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Anirudhakashid/DSA/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Anirudhakashid/DSA/tree/master/0041-first-missing-positive) |
 | [0088-merge-sorted-array](https://github.com/Anirudhakashid/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Anirudhakashid/DSA/tree/master/0169-majority-element) |
@@ -32,6 +33,7 @@ This repository contains my personal solutions to various DSA problems, mainly f
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Anirudhakashid/DSA/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Anirudhakashid/DSA/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Anirudhakashid/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anirudhakashid/DSA/tree/master/0217-contains-duplicate) |
