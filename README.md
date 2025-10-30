@@ -22,6 +22,7 @@ This repository contains my personal solutions to various DSA problems, mainly f
 | ------- |
 | [0001-two-sum](https://github.com/Anirudhakashid/DSA/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Anirudhakashid/DSA/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Anirudhakashid/DSA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Anirudhakashid/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Anirudhakashid/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anirudhakashid/DSA/tree/master/0217-contains-duplicate) |
@@ -35,6 +36,7 @@ This repository contains my personal solutions to various DSA problems, mainly f
 | ------- |
 | [0001-two-sum](https://github.com/Anirudhakashid/DSA/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Anirudhakashid/DSA/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Anirudhakashid/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Anirudhakashid/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anirudhakashid/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anirudhakashid/DSA/tree/master/0242-valid-anagram) |
@@ -48,6 +50,7 @@ This repository contains my personal solutions to various DSA problems, mainly f
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Anirudhakashid/DSA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Anirudhakashid/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Anirudhakashid/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anirudhakashid/DSA/tree/master/0217-contains-duplicate) |
@@ -80,5 +83,6 @@ This repository contains my personal solutions to various DSA problems, mainly f
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Anirudhakashid/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Anirudhakashid/DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
