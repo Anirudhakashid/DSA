@@ -26,6 +26,7 @@ This repository contains my personal solutions to various DSA problems, mainly f
 | [0088-merge-sorted-array](https://github.com/Anirudhakashid/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Anirudhakashid/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anirudhakashid/DSA/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Anirudhakashid/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Anirudhakashid/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Anirudhakashid/DSA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Anirudhakashid/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -40,6 +41,7 @@ This repository contains my personal solutions to various DSA problems, mainly f
 | [0169-majority-element](https://github.com/Anirudhakashid/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anirudhakashid/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anirudhakashid/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Anirudhakashid/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Anirudhakashid/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Anirudhakashid/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/Anirudhakashid/DSA/tree/master/0645-set-mismatch) |
@@ -55,6 +57,7 @@ This repository contains my personal solutions to various DSA problems, mainly f
 | [0169-majority-element](https://github.com/Anirudhakashid/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anirudhakashid/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anirudhakashid/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Anirudhakashid/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Anirudhakashid/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Anirudhakashid/DSA/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anirudhakashid/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -68,10 +71,12 @@ This repository contains my personal solutions to various DSA problems, mainly f
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anirudhakashid/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Anirudhakashid/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anirudhakashid/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Anirudhakashid/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,4 +90,16 @@ This repository contains my personal solutions to various DSA problems, mainly f
 | ------- |
 | [0049-group-anagrams](https://github.com/Anirudhakashid/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Anirudhakashid/DSA/tree/master/0242-valid-anagram) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Anirudhakashid/DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Anirudhakashid/DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Anirudhakashid/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
