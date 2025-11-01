@@ -26,6 +26,7 @@ This repository contains my personal solutions to various DSA problems, mainly f
 | [0088-merge-sorted-array](https://github.com/Anirudhakashid/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Anirudhakashid/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anirudhakashid/DSA/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Anirudhakashid/DSA/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Anirudhakashid/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Anirudhakashid/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Anirudhakashid/DSA/tree/master/0414-third-maximum-number) |
@@ -102,4 +103,8 @@ This repository contains my personal solutions to various DSA problems, mainly f
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Anirudhakashid/DSA/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Anirudhakashid/DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
