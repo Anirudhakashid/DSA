@@ -24,6 +24,7 @@ This repository contains my personal solutions to various DSA problems, mainly f
 | [0041-first-missing-positive](https://github.com/Anirudhakashid/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Anirudhakashid/DSA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Anirudhakashid/DSA/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/Anirudhakashid/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Anirudhakashid/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anirudhakashid/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Anirudhakashid/DSA/tree/master/0238-product-of-array-except-self) |
@@ -39,6 +40,7 @@ This repository contains my personal solutions to various DSA problems, mainly f
 | [0001-two-sum](https://github.com/Anirudhakashid/DSA/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Anirudhakashid/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Anirudhakashid/DSA/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Anirudhakashid/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Anirudhakashid/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anirudhakashid/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anirudhakashid/DSA/tree/master/0242-valid-anagram) |
@@ -107,4 +109,8 @@ This repository contains my personal solutions to various DSA problems, mainly f
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Anirudhakashid/DSA/tree/master/0238-product-of-array-except-self) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Anirudhakashid/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
