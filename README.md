@@ -69,6 +69,7 @@ This repository contains my personal solutions to various DSA problems, mainly f
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Anirudhakashid/DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Anirudhakashid/DSA/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/Anirudhakashid/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
@@ -92,6 +93,7 @@ This repository contains my personal solutions to various DSA problems, mainly f
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Anirudhakashid/DSA/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Anirudhakashid/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Anirudhakashid/DSA/tree/master/0242-valid-anagram) |
 ## Heap (Priority Queue)
 |  |
