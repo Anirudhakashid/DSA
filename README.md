@@ -21,6 +21,7 @@ This repository contains my personal solutions to various DSA problems, mainly f
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anirudhakashid/DSA/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Anirudhakashid/DSA/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/Anirudhakashid/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Anirudhakashid/DSA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Anirudhakashid/DSA/tree/master/0088-merge-sorted-array) |
@@ -55,6 +56,7 @@ This repository contains my personal solutions to various DSA problems, mainly f
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Anirudhakashid/DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Anirudhakashid/DSA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Anirudhakashid/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Anirudhakashid/DSA/tree/master/0169-majority-element) |
@@ -68,6 +70,7 @@ This repository contains my personal solutions to various DSA problems, mainly f
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Anirudhakashid/DSA/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Anirudhakashid/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Anirudhakashid/DSA/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/Anirudhakashid/DSA/tree/master/0349-intersection-of-two-arrays) |
